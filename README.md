@@ -1,5 +1,5 @@
 # resttemplate
-[《一起学 Spring 之 RestTemplate 使用指南 》](https://github.com/wrcj12138aaa/resttemplate/new/master?readme=1) 一文的演示 Demo
+[《一起学 Spring 之 RestTemplate 使用指南 》](https://wrcj12138aaa.github.io/2019/05/11/%E4%B8%80%E8%B5%B7%E5%AD%A6%20Spring%20%E4%B9%8B%20RestTemplate/) 一文的演示 Demo
 
 # 参考资料
 http://blog.didispace.com/spring-boot-learning-21-1-1
